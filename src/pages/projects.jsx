@@ -5,10 +5,7 @@ import { Card } from '@/components/Card'
 import { SimpleLayout } from '@/components/SimpleLayout'
 import mbschool from '@/images/logos/mbschool.png'
 import facturo from '@/images/logos/facturo.png'
-import youphoria from '@/images/logos/YOUphoria.png'
-import orb from '@/images/logos/orb.gif'
-import logoOpenShuttle from '@/images/logos/open-shuttle.svg'
-import logoHeart from '@/images/logos/gwc.png'
+
 
 const projects = [
   {
@@ -81,7 +78,7 @@ export default function Projects() {
               <li><strong>Frameworks:</strong> Flutter, .NET, React, Next.js, Tailwind CSS, Node.js, Express, jQuery, WordPress</li>
               <li><strong>Tools:</strong> Git,  Azure, Docker, CI/CD</li>
               <li><strong>Database/Management:</strong> MySQL, PostgreSQL, MongoDB, Firebase, Supabase</li>
-              <li><strong>Deployment Platforms:</strong> Render, Azure</li>
+              <li><strong>Deployment Platforms:</strong> Vercel, Render, Azure</li>
             </ul>
             <p className="mt-4">Embracing these <strong>TECHNICAL SKILLS</strong> has empowered me to create and contribute to projects that are not only functional but also cutting-edge.</p>
           </>
