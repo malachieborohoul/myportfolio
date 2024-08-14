@@ -15,6 +15,8 @@ import {
 
 import amazonIcon from '@/images/logos/royal.png'
 import alcIcon from '@/images/logos/alc.png'
+import mbcodeIcon from '@/images/logos/mbcode.png'
+import iutIcon from '@/images/logos/iut.jpg'
 
 import { generateRssFeed } from '@/lib/generateRssFeed'
 import { getAllArticles } from '@/lib/getAllArticles'
@@ -139,6 +141,20 @@ function Resume() {
       logo: alcIcon,
       start: '2022',
       end: 'Present',
+    },
+    {
+      company: 'MBCODE ',
+      title: 'Software Engineer, Intern',
+      logo: mbcodeIcon,
+      start: '',
+      end: '2022',
+    },
+    {
+      company: 'University Institute of Technology ',
+      title: 'Software Engineer, Intern',
+      logo: iutIcon,
+      start: '2020',
+      end: '2021',
     },
     
    
