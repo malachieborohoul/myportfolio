@@ -44,7 +44,7 @@ export default function About() {
         <title>About - BOROHOUL Soguelni Malachie</title>
         <meta
           name="description"
-          content="I&apos;m BOROHOUL Soguelni Malachie. A software engineer"
+          content="I&apos;m BOROHOUL Soguelni Malachie. A software engineer."
         />
       </Head>
       <Container className="mt-16 sm:mt-32">
@@ -55,7 +55,7 @@ export default function About() {
                 src={portraitImage}
                 alt=""
                 sizes="(min-width: 1024px) 32rem, 20rem"
-                className="aspect-square  rounded-2xl bg-zinc-100 object-cover dark:bg-zinc-800"
+                className="aspect-square rounded-2xl bg-zinc-100 object-cover dark:bg-zinc-800"
               />
             </div>
           </div>
@@ -76,14 +76,10 @@ export default function About() {
                 Institute of Technology of Ngaoundéré.
               </p>
               <p>
-                <b>Fluent</b> in English,
-                in French.
+                <b>Fluent</b> in English and French.
               </p>
               <p>
-                <b>Areas of Expertise:</b>
-              </p>
-              <p>
-                Software Engineering, Mobile Development, Full Stack Development, DevOps
+                <b>Areas of Expertise:</b> Software Engineering, Mobile Development, Full Stack Development, DevOps
               </p>
               <p>Feel free to reach out to me.</p>
               <p>Have a great day!</p>
