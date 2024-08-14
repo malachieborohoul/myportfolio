@@ -44,7 +44,7 @@ export default function About() {
         <title>About - BOROHOUL Soguelni Malachie</title>
         <meta
           name="description"
-          content="I'm BOROHOUL Soguelni Malachie. A software engineer"
+          content="I&apos;m BOROHOUL Soguelni Malachie. A software engineer"
         />
       </Head>
       <Container className="mt-16 sm:mt-32">
@@ -65,14 +65,14 @@ export default function About() {
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                Skilled Software Engineer with <b>over 2 years of experience</b>  in
+                Skilled Software Engineer with <b>over 2 years of experience</b> in
                 mobile and web application development. Expertise in <b>Flutter,
                 Node.js, .NET, and React.js</b>, with a strong focus on <b>Clean
                 Architecture and TDD</b>. Successfully reduced production time by
-                50% through CI/CD pipeline implementation on <b>Azure</b> . Developed
+                50% through CI/CD pipeline implementation on <b>Azure</b>. Developed
                 key projects including a salon booking app, a Mission Tracking
                 Management API, and a mobile E-Learning platform. Holds a
-                Bachelor's degree in Software Engineering from the University
+                Bachelor&apos;s degree in Software Engineering from the University
                 Institute of Technology of Ngaoundéré.
               </p>
               <p>
@@ -85,25 +85,12 @@ export default function About() {
               <p>
                 Software Engineering, Mobile Development, Full Stack Development, DevOps
               </p>
-              {/* <p>
-                <b>Industry Experience:</b>
-              </p>
-              <p>
-                Software as a Service (SaaS), Fintech, Information Technology,
-                Consulting
-              </p> */}
               <p>Feel free to reach out to me.</p>
               <p>Have a great day!</p>
             </div>
           </div>
           <div className="lg:pl-20">
             <ul role="list">
-              {/* <SocialLink href="#" icon={TwitterIcon}>
-                Follow on Twitter
-              </SocialLink>
-              <SocialLink href="#" icon={InstagramIcon} className="mt-4">
-                Follow on Instagram
-              </SocialLink> */}
               <SocialLink
                 href="https://github.com/malachieborohoul"
                 icon={GitHubIcon}
