@@ -39,7 +39,7 @@ export default function Document() {
   return (
     <Html className="h-full antialiased" lang="en" suppressHydrationWarning>
       <Head>
-        <title>Kathan Mehta - Full Stack Developer/Software Engineer </title>
+        {/* <title>Kathan Mehta - Full Stack Developer/Software Engineer </title> */}
         <meta
           name="title"
           content="Kathan Mehta - Full Stack Developer/Software Engineer "

@@ -41,7 +41,7 @@ export default function Uses() {
       >
         <div className="space-y-20">
           <ToolsSection title="Workstation">
-            <Tool title="14” MacBook Air, M2, 8GB RAM (2023)">
+            <Tool title="13” MacBook Pro, Intel, 8GB RAM (2014)">
               I was using an Intel-based 15.6” HP Laptop prior to this and the
               difference is night and day. I’ve never heard the fans turn on a
               single time, even under the incredibly heavy loads I put it

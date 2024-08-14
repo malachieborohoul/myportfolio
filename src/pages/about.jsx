@@ -65,7 +65,7 @@ export default function About() {
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                Skilled Software Engineer with over 2 years of experience in
+                Skilled Software Engineer with <b>over 2 years of experience</b>  in
                 mobile and web application development. Expertise in <b>Flutter,
                 Node.js, .NET, and React.js</b>, with a strong focus on <b>Clean
                 Architecture and TDD</b>. Successfully reduced production time by
@@ -83,7 +83,7 @@ export default function About() {
                 <b>Areas of Expertise:</b>
               </p>
               <p>
-                Software Engineering, Mobile Dvelopment, Full Stack Development, DevOps
+                Software Engineering, Mobile Development, Full Stack Development, DevOps
               </p>
               {/* <p>
                 <b>Industry Experience:</b>

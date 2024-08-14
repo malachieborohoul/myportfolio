@@ -40,7 +40,7 @@ export default function Speaking() {
         intro="Exploring a career of innovation , here’s a look at my professional experiences in tech."
       >
         <div className="space-y-20">
-          <SpeakingSection title="Software Engineer - Ngaoundere, Cameroon – Remote (12/2022 – Present)">
+          <SpeakingSection title="Software Engineer - Ngaoundere, Cameroon – Remote (2022 – Present)">
             <Appearance
               href="https://alc.demoafricalead.com"
               title="Full Stack Tech Developer"
@@ -49,7 +49,7 @@ export default function Speaking() {
               cta="Ongoing"
             />
           </SpeakingSection>
-          <SpeakingSection title="Software Engineer - Ngaoundere, Cameroon - Hackathon (11/2022 - 12/2022)">
+          <SpeakingSection title="Software Engineer - Ngaoundere, Cameroon - Hackathon (2022)">
             <Appearance
               href=""
               title="GIZ Hackathon Web App Developer"
@@ -58,7 +58,7 @@ export default function Speaking() {
               cta="Completed"
             />
           </SpeakingSection>
-          <SpeakingSection title="Software Engineer Intern - Douala, Cameroon (06/2022 - 09/2022)">
+          <SpeakingSection title="Software Engineer Intern - Douala, Cameroon (2022)">
             <Appearance
               href="https://mbcode.cm"
               title="Intern: MBSCHOOL E-Learning App Developer"
@@ -67,7 +67,7 @@ export default function Speaking() {
               cta="Completed"
             />
           </SpeakingSection>
-          <SpeakingSection title="Software Engineer Intern - Ngaoundere, Cameroon (06/2021 - 09/2021)">
+          <SpeakingSection title="Software Engineer Intern - Ngaoundere, Cameroon (2021)">
             <Appearance
               href=""
               title="Intern: Alumni Management Web App Developer"
