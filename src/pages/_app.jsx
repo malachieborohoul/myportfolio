@@ -2,7 +2,7 @@ import { useEffect, useRef } from 'react'
 import Head from 'next/head'
 import { Footer } from '@/components/Footer'
 import { Header } from '@/components/Header'
-import { Analytics } from '@vercel/analytics/react';
+// import { Analytics } from '@vercel/analytics/react';
 import '@/styles/tailwind.css'
 import 'focus-visible'
 
@@ -31,7 +31,7 @@ export default function App({ Component, pageProps, router }) {
         <main>
           <Component previousPathname={previousPathname} {...pageProps} />
           {/* Analytics */}
-          <Analytics />
+          {/* <Analytics /> */}
         </main>
         <Footer />
       </div>
