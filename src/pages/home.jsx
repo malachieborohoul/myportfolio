@@ -143,6 +143,13 @@ function Resume() {
       end: 'Present',
     },
     {
+      company: 'Le Pas des Grands',
+      title: 'Wordpress Developer',
+      logo: alcIcon,
+      start: '2022',
+      end: 'Present',
+    },
+    {
       company: 'MBCODE ',
       title: 'Software Engineer, Intern',
       logo: mbcodeIcon,
