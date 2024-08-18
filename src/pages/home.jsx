@@ -1,4 +1,4 @@
-import Image from 'next/future/image'
+import Image from 'next/image'
 import Head from 'next/head'
 import Link from 'next/link'
 import clsx from 'clsx'
@@ -139,29 +139,36 @@ function Resume() {
       company: 'Africa Lead Corporation ',
       title: 'Software Engineer',
       logo: alcIcon,
-      start: '2022',
+      start: '12/2022',
       end: 'Present',
     },
-    {
-      company: 'Le Pas des Grands',
-      title: 'Wordpress Developer',
-      logo: alcIcon,
-      start: '2022',
-      end: 'Present',
-    },
+    // {
+    //   company: 'Le Pas des Grands',
+    //   title: 'Wordpress Developer',
+    //   logo: alcIcon,
+    //   start: '2022',
+    //   end: 'Present',
+    // },
     {
       company: 'MBCODE ',
       title: 'Software Engineer, Intern',
       logo: mbcodeIcon,
-      start: '',
-      end: '2022',
+      start: '06/2022',
+      end: '09/2022',
     },
     {
       company: 'University Institute of Technology ',
       title: 'Software Engineer, Intern',
       logo: iutIcon,
-      start: '2020',
-      end: '2021',
+      start: '06/2020',
+      end: '09/2020',
+    },
+    {
+      company: 'University Institute of Technology ',
+      title: 'Software Engineer, Intern',
+      logo: iutIcon,
+      start: '06/2021',
+      end: '09/2021',
     },
     
    
