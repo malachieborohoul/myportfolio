@@ -9,6 +9,7 @@ import logoOpenShuttle from '@/images/logos/open-shuttle.svg'
 import logoPlanetaria from '@/images/logos/planetaria.svg'
 import mbschool from '@/images/logos/mbschool.png'
 import facturo from '@/images/logos/facturo.png'
+import freemo from '@/images/logos/freemo.png'
 const projects = [
   {
     name: 'mbshool: E Learning mobile app',
@@ -37,6 +38,21 @@ const projects = [
       label: '',
     },
     logo: facturo,
+  },
+
+  {
+    name: 'FreemoPay Prototype',
+    description:
+      "A digital solution bridging mobile money and banking, offering micro-loans and digital wallets to underserved populations in French-speaking Africa. This prototype was created for a challenge and was well appreciated.",
+    link: {
+      href: 'https://github.com/malachieborohoul/freemo_test',
+      label: 'GitHub',
+    },
+    store: {
+      href: '',
+      label: '',
+    },
+    logo: freemo,
   },
   
 ]
