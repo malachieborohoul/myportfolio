@@ -20,7 +20,7 @@ const projects = [
       label: 'GitHub',
     },
     store: {
-      href: 'https://mega.nz/file/ERx1DBJb#PVysTeRSZKtAGwQC7rP4ZWnswO7tCJU-P04---LLxi4',
+      href: 'https://mega.nz/file/EYpQhIrD#PVysTeRSZKtAGwQC7rP4ZWnswO7tCJU-P04---LLxi4',
       label: 'Mega',
     },
     logo: mbschool,
