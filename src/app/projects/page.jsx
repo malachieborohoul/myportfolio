@@ -34,8 +34,8 @@ const projects = [
       label: 'LinkedIn',
     },
     store: {
-      href: '',
-      label: '',
+      href: 'https://mega.nz/file/4A5FDbiL#v6LrjUs-WOoUiY-yWtmuarmD--rw0au3DJjZ2TeC_Tk',
+      label: 'Mega',
     },
     logo: facturo,
   },
