@@ -20,8 +20,8 @@ const projects = [
       label: 'GitHub',
     },
     store: {
-      href: 'https://github.com/malachieborohoul/mbschool',
-      label: 'Pending approval on the Google Play Store',
+      href: 'https://mega.nz/file/ERx1DBJb#PVysTeRSZKtAGwQC7rP4ZWnswO7tCJU-P04---LLxi4',
+      label: 'Mega',
     },
     logo: mbschool,
   },
