@@ -278,7 +278,7 @@ export default async function Home() {
 
           </p>
           <div className="mt-6 flex gap-6">
-          <SocialLink
+            <SocialLink
               href="https://medium.com/@malachieborohoul"
               aria-label="Follow on Instagram"
               icon={MediumIcon}
@@ -297,7 +297,7 @@ export default async function Home() {
             />
           </div>
           <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f0d56d18-ebcc-4be5-9b9b-40514f2aa253" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+    
         </div>
       </Container>
       <Photos />
