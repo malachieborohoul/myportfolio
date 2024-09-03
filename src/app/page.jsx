@@ -277,6 +277,7 @@ export default async function Home() {
           My name is BOROHOUL Soguelni Malachie, a mobile developer, full stack developer, and software engineer. I am passionate about building software and exploring the world of AI.
 
           </p>
+          <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f0d56d18-ebcc-4be5-9b9b-40514f2aa253" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
           <div className="mt-6 flex gap-6">
           <SocialLink
               href="https://medium.com/@malachieborohoul"
