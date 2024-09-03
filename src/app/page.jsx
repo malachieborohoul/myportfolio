@@ -271,13 +271,12 @@ export default async function Home() {
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-          Software Engineer and AI Enthusiast
+          Innovative Software Engineer | DevOps Navigator | AI Explorer
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
           My name is BOROHOUL Soguelni Malachie, a mobile developer, full stack developer, and software engineer. I am passionate about building software and exploring the world of AI.
 
           </p>
-          <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f0d56d18-ebcc-4be5-9b9b-40514f2aa253" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
           <div className="mt-6 flex gap-6">
           <SocialLink
               href="https://medium.com/@malachieborohoul"
@@ -297,6 +296,8 @@ export default async function Home() {
               icon={LinkedInIcon}
             />
           </div>
+          <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f0d56d18-ebcc-4be5-9b9b-40514f2aa253" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
         </div>
       </Container>
       <Photos />
