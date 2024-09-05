@@ -79,7 +79,6 @@ export default function Projects() {
       title="Some of My Top Personal Projects"
       intro={
         <>
-          <p>This summer, I learned about the trifecta that is React, Next.js, and TailwindCSS. I haven&apos;t looked back since!</p>
           <p className="mt-4">Diving deeper, I&apos;ve honed my skills across a broad spectrum of technologies:</p>
           <ul className="list-disc pl-6 mt-2">
             <li><strong>Languages:</strong>  Dart, C#, HTML, CSS, JavaScript,  Python, Php</li>
