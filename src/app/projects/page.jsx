@@ -10,6 +10,7 @@ import logoPlanetaria from '@/images/logos/planetaria.svg'
 import mbschool from '@/images/logos/mbschool.png'
 import facturo from '@/images/logos/facturo.png'
 import freemo from '@/images/logos/freemo.png'
+import accommodify from '@/images/logos/accommodify.png'
 const projects = [
   {
     name: 'mbshool: E Learning mobile app',
@@ -41,6 +42,21 @@ const projects = [
   },
 
   {
+    name: 'Accommodify',
+    description:
+      "A mobile app for finding accommodations in Ngaoundéré (Cameroon) using interactive map, with filters by type, price and location",
+    link: {
+      href: '',
+      label: '',
+    },
+    store: {
+      href: 'https://mega.nz/file/wdQhUKZZ#341XOFy_aJbma4FAmNk95F9xcWQWfToSJxvH95eMPPY',
+      label: 'Mega',
+    },
+    logo: accommodify,
+  },
+
+  {
     name: 'FreemoPay Prototype',
     description:
       "A digital solution bridging mobile money and banking, offering micro-loans and digital wallets to underserved populations in French-speaking Africa. This prototype was created for a challenge and was well appreciated.",
@@ -54,6 +70,7 @@ const projects = [
     },
     logo: freemo,
   },
+  
   
 ]
 
