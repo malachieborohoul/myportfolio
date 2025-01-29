@@ -44,7 +44,7 @@ const projects = [
   {
     name: 'Accommodify',
     description:
-      "A mobile app for finding accommodations in Ngaoundéré (Cameroon) using interactive map, with filters by type, price and location",
+      "A mobile app for finding accommodations in Ngaoundéré (Cameroon) using interactive map, with filters by type, price and location.",
     link: {
       href: 'https://github.com/malachieborohoul/accommodify',
       label: 'GitHub',
