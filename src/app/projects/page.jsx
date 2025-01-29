@@ -46,8 +46,8 @@ const projects = [
     description:
       "A mobile app for finding accommodations in Ngaoundéré (Cameroon) using interactive map, with filters by type, price and location",
     link: {
-      href: '',
-      label: '',
+      href: 'https://github.com/malachieborohoul/accommodify',
+      label: 'GitHub',
     },
     store: {
       href: 'https://mega.nz/file/wdQhUKZZ#341XOFy_aJbma4FAmNk95F9xcWQWfToSJxvH95eMPPY',
