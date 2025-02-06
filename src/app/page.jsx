@@ -22,6 +22,7 @@ import image3 from '@/images/photos/image-3.jpeg'
 import image4 from '@/images/photos/image-4.jpg'
 import image5 from '@/images/photos/image-5.jpg'
 import alcIcon from '@/images/logos/alc.png'
+import blkIcon from '@/images/logos/blk.png'
 import mbcodeIcon from '@/images/logos/mbcode.png'
 import iutIcon from '@/images/logos/iut.jpg'
 import { getAllArticles } from '@/lib/articles'
@@ -178,11 +179,18 @@ function Role({ role }) {
 function Resume() {
   let resume = [
     {
+      company: 'BLk(Blocklinkmaker.ca) ',
+      title: 'Freelance Software Engineer',
+      logo: blkIcon,
+      start: '09/2024',
+      end: 'Present',
+    },
+    {
       company: 'Africa Lead Corporation ',
       title: 'Software Engineer',
       logo: alcIcon,
       start: '12/2022',
-      end: 'Present',
+      end: '08/2024',
     },
     // {
     //   company: 'Le Pas des Grands',
